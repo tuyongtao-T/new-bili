@@ -5,7 +5,7 @@ const config = {
     timeOut: 5*60*1000,
 };
 const config2 = {
-    baseURL: 'http://api.bilibili.com', // api的base_url
+    baseURL: '', // api的base_url
     timeOut: 5*60*1000,
 };
 
